@@ -1,0 +1,20 @@
+{
+  "articles": [
+    {
+      "path": "about.html",
+      "title": "About this site",
+      "description": "Some additional details about the website",
+      "author": [],
+      "contents": "\r\n\r\n\r\n\r\n",
+      "last_modified": "2022-08-09T08:46:58-05:00"
+    },
+    {
+      "path": "index.html",
+      "title": "Building Websites in R with Distill",
+      "author": [],
+      "contents": "\r\n\r\n          \r\n          \r\n          Building Websites with Distill\r\n          \r\n          \r\n          Home\r\n          About\r\n          ☰\r\n          \r\n          \r\n      \r\n        \r\n          \r\n            \r\n              \r\n            \r\n              Building Websites in R with Distill\r\n            \r\n            \r\n              \r\n                \r\n                    \r\n                      \r\n                        Twitter\r\n                      \r\n                    \r\n                  \r\n                                  \r\n            \r\n          \r\n        \r\n        \r\n        \r\n          \r\n            \r\n            Number 1 header\r\n            \r\n            Number 2 header\r\n            red\r\n            orange\r\n            yellow\r\n            \r\n            \r\n          \r\n        \r\n      \r\n    \r\n\r\n    \r\n      \r\n        \r\n          \r\n            \r\n              \r\n            \r\n              Building Websites in R with Distill\r\n            \r\n            \r\n              \r\n                \r\n                                    \r\n                    \r\n                      Twitter\r\n                    \r\n                  \r\n                                  \r\n              \r\n            \r\n            \r\n              \r\n              Number 1 header\r\n              \r\n              Number 2 header\r\n              red\r\n              orange\r\n              yellow\r\n              \r\n              \r\n            \r\n        \r\n      \r\n    \r\n\r\n    \r\n    \r\n    ",
+      "last_modified": "2022-08-09T08:46:59-05:00"
+    }
+  ],
+  "collections": []
+}

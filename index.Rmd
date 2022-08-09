@@ -1,0 +1,18 @@
+---
+title: "Building Websites in R with Distill"
+image: "R-Oman-Logo.jpg"
+links:
+  - label: Twitter
+    url: "https://twitter.com/jfsloane target = '_blank' "
+output:
+  postcards::trestles
+site: distill::distill_website
+---
+ 
+# Number 1 header
+
+## Number 2 header
+
+- red
+- orange
+- yellow
